@@ -3,8 +3,11 @@
 software carpentry workshop
 
 list:
--a
--b
--c
+
+- a
+
+- b
+
+- c
 
 Adding lines, deleting lines
